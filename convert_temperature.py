@@ -1,3 +1,3 @@
-def fahrenheit_to_celcius(temp_fahrenheit):
-	temp_celcius = (temp_fahrenheit - 32)* (5.0/9.0)
-	return temp_celcius
+def fahrenheit_to_celcius(temperature_fahrenheit):
+	temperature_celcius = (temperature_fahrenheit - 32)* (5.0/9.0)
+	return temperature_celcius
